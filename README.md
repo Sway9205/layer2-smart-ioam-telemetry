@@ -12,6 +12,15 @@ The project implements:
 - All scripts required to recreate the experiment described in the paper  
 
 ---
+Citation
+@inproceedings{l2smart2026,
+  title={L2-SMART: Adaptive Layer-2 IOAM Telemetry for Efficient Hop-Level Observability},
+  author={Swethashree et al.},
+  year={2026},
+  booktitle={IEEE Conference on XYZ},
+}
+
+---
 
 ## 📌 Features
 
@@ -94,13 +103,7 @@ cd experiments
 ./capture.sh
 python3 analyze.py
 
-Citation
-@inproceedings{l2smart2026,
-  title={L2-SMART: Adaptive Layer-2 IOAM Telemetry for Efficient Hop-Level Observability},
-  author={Swethashree et al.},
-  year={2026},
-  booktitle={IEEE Conference on XYZ},
-}
+
 
 
 
